@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -25,7 +26,7 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser executes the callback function that renders the notes
-
+```
 # Rangi Ruru Girls' School Svelte Template
 
 This is a starting template for building and running an app using [Svelte](https://svelte.dev).
